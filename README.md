@@ -151,7 +151,7 @@ http://localhost:8080
 
 # 📸 Screenshots
 
-<img width="100" height="200" alt="image" src="https://github.com/user-attachments/assets/91cc7d8c-6789-4d2f-af83-eb0982ae8f5a" />
+<img width="225" height="300" alt="image" src="https://github.com/user-attachments/assets/91cc7d8c-6789-4d2f-af83-eb0982ae8f5a" />
 <img width="2558" height="1272" alt="Screenshot 2026-07-16 020423" src="https://github.com/user-attachments/assets/b8eb7479-ef25-45c5-aa6b-b0a2e40df407" />
 
 Example:
